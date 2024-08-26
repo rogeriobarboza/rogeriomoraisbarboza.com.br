@@ -1,0 +1,90 @@
+[15-May-2024 16:18:42 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 16:18:42 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 16:18:56 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 16:18:56 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 16:19:40 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 16:19:40 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 16:19:45 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 16:19:45 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 16:27:26 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 16:27:26 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:21:53 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:21:53 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:23:29 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:23:29 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:23:51 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:23:51 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:25:00 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:25:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:27:02 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:27:02 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:27:46 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:27:46 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:28:00 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:28:00 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:29:20 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:29:20 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:29:44 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 17:29:44 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 18:01:23 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 18:01:23 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 18:01:50 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 18:01:50 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 18:02:03 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 18:02:03 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 18:02:04 America/Fortaleza] PHP Warning:  require(configs/env/urls.php): Failed to open stream: No such file or directory in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3
+[15-May-2024 18:02:04 America/Fortaleza] PHP Fatal error:  Uncaught Error: Failed opening required 'configs/env/urls.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php:3
+Stack trace:
+#0 {main}
+  thrown in /home2/rmbtic88/portfolio.rmbti.com.br/contents/pages/home.php on line 3

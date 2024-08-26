@@ -1,0 +1,193 @@
+body {
+    position: relative;
+    background-color: rgb(228, 228, 228);
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    
+}
+
+.mainContent {
+    display: flex;
+    justify-content: center; /*Centraliza horizontalmente  */
+    align-items: center; /* Centraliza verticalmente */
+    flex-direction: column; /* Ajusta para uma única coluna */
+
+    border-style: none;
+    border-color: rgb(0, 46, 252);
+}
+
+.content {
+    border-style: none;
+    border-color: rgb(252, 0, 0);
+
+    width: fit-content;
+    display: block;
+    align-items: stretch; /* "center" Centraliza verticalmente. "stretch" Estica o pai para coincidir com a altura do filho */
+    justify-content: center; /* "center" Centraliza horizontalmente. "stretch" Estica o pai para coincidir com a largura do filho */
+}
+
+#contNomeLinks {
+    background-image: url("../../contents/pages/imgs/2k-pexels-kevin-ku-92347-577585.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+    
+    display: flex;
+    width: 100%;
+    height: 81vh;
+    border-style: none;
+    border-color: #333;
+    align-items: center;
+    justify-content: center;
+}
+
+#contNomeLinks:active {
+    background-size: 500%;
+}
+
+#nomeLinks {
+    padding-top: 20px;
+    padding-bottom: 50px;
+    background-color: rgba(255, 255, 255, 0.80);
+    border-style: none;
+    border-color: #ce0000;
+    align-items: center;
+}
+
+.txtBox {
+    margin-top: 2%;
+    text-align: center;
+    
+}
+
+h1 {
+    text-align: center;
+    color: darkslateblue;
+    margin:25px;
+    font-size: xx-large;
+}
+
+h2 {
+    text-align: center;
+    color: black;
+    margin:5%;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+    margin-top:30px;
+    padding-top: 25px;
+}
+
+p {
+    text-align: center;
+    color: black;
+    margin:2%;
+}
+
+.areas {
+    font-size: medium;
+}
+
+.divBtn {
+    display:flex;
+    margin-top: 15px;
+    align-items: center;
+    justify-content: center;
+}
+
+button {
+    width: 300px;
+    display: flex;
+    margin-inline: 10px;
+    padding: 5px;
+    color: darkslateblue;
+    font-weight: 600;
+    justify-content: center;
+}
+
+#imgTxt {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    display: block;
+    width: 300px;
+    align-content: center;
+    text-align: center;
+}
+
+#imgPerfil {
+    height: 300px; 
+}
+
+#imgDesc {
+    color: darkslateblue;
+}
+
+#resPro {
+    display: block;
+    background-color: rgb(190, 190, 190);
+    
+    text-align: center;
+    padding-top: 25px;
+    padding-bottom: 50px;
+}
+#aSobre {
+    color: darkslateblue;
+}
+
+#divBtnSobre {
+    margin-top: 25px;
+    display: inline-block;
+    width: fit-content;
+    align-items: center;
+    justify-content: center;
+
+    border-style: none;
+    border-color: #0f0f0f;
+}
+
+#btnSobre {
+    width: 100%;
+}
+
+#btnMaisProj {
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+#formComp {
+    display: flex;
+    background-color: lightgray;
+    width: 100%;
+    justify-content: center;
+    margin-top: 25px;
+}
+#cursos {
+    display: flex;
+    justify-content: center;
+    margin: 35px;
+}
+
+#infoAdd {
+    display: flex;
+    justify-content: center;
+    margin: 35px;
+}
+
+#listaSobre {
+    display:block;
+    border-style: none;
+    border-color: #33333300;
+}
+
+#ulSobre {
+    display: block;
+}
+
+.liSobre {
+    list-style-type: disc; /* Marcadores quadrados */
+    color: #333; /* Cor do texto mais escura */
+    padding: 15px; /* Mais padding */
+    margin: 20px; /* Adiciona margem ao redor da lista */
+    margin-left: 50px;
+  }

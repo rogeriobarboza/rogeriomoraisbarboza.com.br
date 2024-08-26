@@ -1,0 +1,134 @@
+.next {
+    position: absolute;
+    top: 50%;
+    right: 0%;
+
+    color: rgb(255, 255, 255);
+    padding: 1.5%;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+}
+
+.back {
+    position: absolute;
+    top: 50%;
+    left: 0%;
+    
+    color: rgb(255, 255, 255);
+    padding: 1.5%;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 1);
+}
+
+.masterContainer {
+    display: block;
+}
+
+
+.mainContainer {
+    height: 55vh;
+    width: 100%;
+
+
+    display: flex;
+    position: relative;
+    align-items: center;
+    justify-content: center;
+
+    border-style: none ;
+    border-width: 1px;
+    border-color: rgb(36, 36, 36);
+}
+
+.flipContainer {
+    display:flex;
+    position:absolute;
+    translate: 0%;
+
+    width: 90%; 
+    height: 90%;
+    margin-top: 1%;
+    margin-bottom: 1%; 
+
+    border-style: none;
+    border-width: 1px;
+    border-color: rgb(38, 0, 255);
+    
+}
+/* -- */
+
+.L {
+    display: flex;
+    position: relative;
+    width: 50%;
+    height: 100%;
+
+    border-style: none;
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+}
+.R {
+    display: flex;
+    position: relative;
+    width: 50%;
+    height: 100%;
+
+    perspective: 2200px;
+
+    border-style: none;
+    border-width: 1px;
+    border-color: rgb(0, 0, 0);
+}
+
+        .image-L {
+            display: flex;
+            position: absolute;
+            height: 100%;
+            
+            z-index: 1;
+            backface-visibility: hidden;
+
+            border-style: none;
+            border-width: 1px;
+            border-color: rgb(0, 0, 0);
+        }
+
+        .img-l {
+            width: 100%; height: 100%;
+            object-fit: contain;
+        }
+
+        .image-R {
+            transform: rotateY(180deg);
+            display: flex;
+            position: absolute;
+            height: 100%;
+            
+            z-index: 0;
+            backface-visibility: hidden;
+
+            border-style: none;
+            border-width: 1px;
+            border-color: rgb(201, 154, 0);
+        }
+
+        .img-r {
+            width: 100%; height: 100%;
+            object-fit: contain;                 
+        }
+        /* --- */
+
+.flip {
+    display: flex;
+    position: absolute;
+
+    width: 100%;
+    height: 100%;
+    
+    border-style: none;
+    border-width: 1px;
+    border-color: rgb(20, 117, 0);
+
+    transition: transform 2s;
+    transform-style: preserve-3d;
+    transform-origin: 0;
+    transform: rotateY(0deg); 
+}
